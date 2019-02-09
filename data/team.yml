@@ -1,0 +1,47 @@
+enable  : true
+title   : MEET THE TEAM
+members  :
+  - name  : Jesse D. Raffa
+    image : images/team/jraffa.jpg
+    designation : Research Scientist
+    description : Dr. Jesse Raffa, PhD, is a biostatistician Research Scientist at MIT. His primary area of interest in methodological research has been the analysis of complex longitudinal data, in particular using different types of latent variable structures. This is highly relevant in the critical care setting, where most data is both longitudinal and complex in nature. He provides study design and analytical support for LCP’s clinical collaborations both as a consultant and data analyst.
+    linkedIn    : https://www.linkedin.com/themefisher
+
+  - name  : Alistair E.W. Johnson
+    image : images/team/alistair_johnson.jpg
+    designation : Research Scientist
+    description : Alistair joined the Laboratory for Computational Physiology in 2015 and is currently a full time Research Scientist. He has extensive experience and expertise in working with ICU data, and in building decision support tools for critically ill patients. He is actively engaged in research investigations with clinical colleagues. He has worked extensively on creating and releasing the Medical Information Mart for Intensive Care (MIMIC)-III and eICU databases, and in actively supporting its user community.
+    linkedIn    : https://www.linkedin.com/in/alistair-johnson-6b838552/
+
+  - name: Tom J. Pollard
+    image: images/team/tpollard.jpg
+    designation: Research Scientist
+    description: He is currently a full time Research Scientist at MIT. He is expert in the development, support, and analysis of critical care databases, including MIMIC and the recently released eICU Collaborative Research Database. He conducts retrospective studies in collaboration with clinical specialists, develops and supports critical care databases that are widely used around the world in research and education, and he has created software used by hundreds of researchers and students internationally. He is a Fellow of the Software Sustainability Institute.
+    linkedIn: https://www.linkedin.com/in/tomjpollard/
+
+  - name  : Omar Badawi
+    image : images/team/team-2.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Leo A. Celi
+    image : images/team/team-3.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : David Pilcher
+    image : images/team/team-3.jpg
+    designation : CEO, Project Manager
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
