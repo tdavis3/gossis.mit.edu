@@ -13,8 +13,8 @@ theme = "timer-hugo"
         url     = "/about"
         weight  = 2
     [[menu.nav]]
-        name    = "Project"
-        url     = "/project"
+        name    = "News"
+        url     = "/news"
         weight  = 3
     [[menu.nav]]
         name    = "Gallery"
