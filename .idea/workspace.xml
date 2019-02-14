@@ -1,74 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb0fe55d-0977-4fad-9f2a-3ae66d9c4290" name="Default Changelist" comment="first commit to git">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gossis.mit.edu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/contact/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/gallery/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/project/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/about.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/client.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/contact.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/feature.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/gallery.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/project.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/team.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/style.css_d3f53f09220d597dac26fe7840c31fc9.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/style.css_d3f53f09220d597dac26fe7840c31fc9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/script.js_d3f53f09220d597dac26fe7840c31fc9.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/script.js_d3f53f09220d597dac26fe7840c31fc9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about/about-company.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about/gossis_map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/author/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/author/author-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/author/author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/avater-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/avater-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/avater.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/post-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/post-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/post-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/logo-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/logo-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/logo-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/logo-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/logo-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gossis1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/i_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/i_prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/map-marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/quotes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icons/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/IMG_0102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/IMG_7457.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/apacheiv_paper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/bubblesentiment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/post-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/sdata2018178-f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/workablenotebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/alistair_johnson.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/jraffa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/tpollard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/timer-hugo" afterDir="false" />
+    <list default="true" id="cb0fe55d-0977-4fad-9f2a-3ae66d9c4290" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/timer-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/timer-hugo" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,77 +26,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/about.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/contact/_index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="96">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/project/_index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="5" selection-start-line="5" selection-end-line="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/client.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/timer-hugo/layouts/project/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/team.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="21" selection-start-line="21" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -195,8 +60,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1937" />
-    <option name="width" value="1915" />
+    <option name="x" value="290" />
+    <option name="width" value="3465" />
     <option name="height" value="2075" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -211,6 +76,11 @@
             <path>
               <item name="gossis.mit.edu" type="b2602c69:ProjectViewProjectNode" />
               <item name="gossis.mit.edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gossis.mit.edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossis.mit.edu" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,18 +133,26 @@
       <updated>1549334099091</updated>
       <workItem from="1549334100689" duration="18289000" />
       <workItem from="1549560163128" duration="2963000" />
-      <workItem from="1549575865273" duration="8854000" />
+      <workItem from="1549575865273" duration="11872000" />
+      <workItem from="1550172786722" duration="1166000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit to git">
+      <created>1549752905956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549752905956</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30106000" />
+    <option name="totallyTimeSpent" value="34290000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="775" y="0" width="766" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="116" y="0" width="1386" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2641243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25075302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -472,24 +350,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/gallery.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/contact.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/client.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -511,13 +375,6 @@
     <entry file="file://$PROJECT_DIR$/themes/timer-hugo/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/project.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/feature.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -525,27 +382,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/timer-hugo/layouts/project/list.html">
+    <entry file="file://$PROJECT_DIR$/data/client.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        <state relative-caret-position="224">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/about.yml">
+    <entry file="file://$PROJECT_DIR$/data/project.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+        <state relative-caret-position="384">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/contact/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/team.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" selection-start-line="21" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -559,17 +420,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/team.yml">
+    <entry file="file://$PROJECT_DIR$/themes/timer-hugo/layouts/project/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="21" selection-start-line="21" selection-end-line="22" />
+        <state relative-caret-position="576">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
+    <entry file="file://$PROJECT_DIR$/data/gallery.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        <state relative-caret-position="112">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/contact/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/about.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
         </state>
       </provider>
     </entry>
