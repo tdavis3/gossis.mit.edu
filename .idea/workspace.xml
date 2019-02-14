@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0fe55d-0977-4fad-9f2a-3ae66d9c4290" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/timer-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/timer-hugo" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -134,7 +133,7 @@
       <workItem from="1549334100689" duration="18289000" />
       <workItem from="1549560163128" duration="2963000" />
       <workItem from="1549575865273" duration="11872000" />
-      <workItem from="1550172786722" duration="1166000" />
+      <workItem from="1550172786722" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="first commit to git">
       <created>1549752905956</created>
@@ -143,16 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1549752905956</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add themes">
+      <created>1550178919276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550178919276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34290000" />
+    <option name="totallyTimeSpent" value="34441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="116" y="0" width="1386" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25075302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25075302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -163,9 +169,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49924698" visible="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500753" side_tool="true" visible="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -207,7 +213,8 @@
       <path value="$PROJECT_DIR$/themes/timer-hugo" />
     </ignored-roots>
     <MESSAGE value="first commit to git" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit to git" />
+    <MESSAGE value="add themes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add themes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/themes/hugo-base-theme/config.toml" />
