@@ -20,7 +20,7 @@
                             <div class="block wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="600ms">
                                 {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
                                 {{ with .title }}<h4>{{ . }}</h4>{{ end }}
-                                {{ with .description }}<p>{{ . }}</p>{{ end }}
+                                {{ with .description }}<p>{{ . |safeHTML }}</p>{{ end }}
                             </div>
                         </div>
                         {{ end }}
@@ -39,9 +39,9 @@
 </section>
 {{ "<!-- Service Section End -->" | safeHTML }}
 {{ end }}
-
+<!--
 {{ partial "clients.html" . }}
-
+-->
 {{ partial "cta.html" . }}
 
 {{ partial "footer.html" . }}

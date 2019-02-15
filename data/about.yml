@@ -1,20 +1,25 @@
 enable  : true
-title   : The Purpose
+title   : The GOSSIS Consortium
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptate maccusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  <br>
-  <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-image   : images/about/about-company.jpg
+   The Global Open Source Severity of Illness Score (GOSSIS) is a new in-hospital mortality prediction algorithm created by the GOSSIS consortium. <br><br>
+   Presently there are consortium members from Argentina (SATIQ), Australia and New Zealand (ANZICS-APD), Bangladesh, India, Nepal and Sri Lanka (NICST), Brazil (ORCHESTRA), and the United States (eICU-CRD and MIMIC-III).<br><br>
+   The consortium seeks to:<br><br>
+   1. Pool and coordinate resources to create a database containing a large amount of critical care data from many different intensive care units (ICUs) worldwide, and<br>
+   2. Develop a new family of open source scoring systems for assessing the severity of illness of critical care patients internationally. 
+image   : images/about/gossis_map.png
+
 aboutItem:
-  - title : Why Choose Us
+  - title : Our Goals
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+       The consortium seeks to:<br>
+       1. Pool and coordinate resources to create a database containing a large amount of critical care data from many different intensive care units (ICUs) worldwide, and<br>  2. Develop a new family of open source scoring systems for assessing the severity of illness of critical care patients internationally.
+  - title : 
+    description: > 
+       The problems with existing severity of illness systems are numerous: <br>
+       1. They often lack generalizability beyond the patients on whom the models were developed, and<br>
+       2. The models are often proprietary, costly to use, and suffer from opaque algorithms. 
+  - title : Why GOSSIS?
+    description: > 
+       Severity of illness has been traditionally linked with mortality risk. However, the relationship of severity of illness with mortality likely differs across ICUs based on a host of factors, including but not limited to staffing, capacity for special diagnostic tests and interventions, and variation in the culture of quality and patient safety. While, in theory, one would think that physiology transcends geography, differences in care systems and patient populations may translate the same score to very different outcomes. Put simply, an illness severity translates into different mortality risks depending on where the patient is located. This is problematic given that the two concepts are intrinsically linked in developing the score.  Although these issues are understood in theory, an objective quantification of these differences is not possible without a validated severity of illness system developed from an international collaborative. 
 
-  - title : What You Get
-    description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
 
-  - title : Meet The Energy
-    description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

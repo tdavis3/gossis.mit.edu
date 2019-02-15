@@ -1,6 +1,6 @@
 baseURL = "https://gossis.mit.edu"
 languageCode = "en-us"
-title = "GOSSIS"
+title = "GOSSIS: Global Open Source Severity of Illness Score: International Benchmarking for Critical Care"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -17,10 +17,6 @@ theme = "timer-hugo"
         url     = "/news"
         weight  = 3
     [[menu.nav]]
-        name    = "Gallery"
-        url     = "/gallery"
-        weight  = 4
-    [[menu.nav]]
         name    = "Contact"
         url     = "/contact"
         weight  = 6
@@ -28,7 +24,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "Home"
-    logo = "images/logo.png"
+    logo = "images/gossis_logo2.PNG"
     dateFormat = "6 January 2006"
     # Meta data
     description = "Airspace Hugo theme"
@@ -41,41 +37,41 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "images/gossis1.png"
         heading = "Global Open Source Severity of Illness Score"
-        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
-        btn     = true
-        btnText = "Download More"
-        btnURL  = "https://themefisher.com/"
+        description = "The Global Open Source Severity of Illness Score (GOSSIS) is a new in-hospital mortality prediction algorithm created by the GOSSIS consortium."
+        #btn     = true
+        #btnText = "Download More"
+        #btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "Revolutionary"
+            title   = "Global"
         [[params.banner.flipText]]
-            title   = "Universal"
+            title   = "Open"
         [[params.banner.flipText]]
-            title   = "Health"
+            title   = "Free"
 
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT US"
-        content = "GOSSIS, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        title   = "ABOUT GOSSIS"
+        content = "The <b>Global Open Source Severity of Illness Score (GOSSIS)</b> is a new in-hospital mortality prediction algorithm created by the GOSSIS consortium.<br><br> Presently there are consortium members from Argentina (SATIQ),  Australia and New Zealand (ANZICS-APD), Bangladesh, India, Nepal and Sri Lanka (NICST), Brazil (ORCHESTRA), and the United States (eICU-CRD and MIMIC-III)."
         image   = "images/about/gossis_map.png"
 
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "WHAT DO YOU THINK ?"
-        content = "Feel free to contact us."
+        title   = "Find out more."
+        content = "Use GOSSIS. Contribute data.  Become Part of the Community"
         btnText = "Contact Us"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = true
+        enable  = false
         title   = "Latest Works"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
     # Feature Product Section
     [params.featureProduct]
-        enable  = true
+        enable  = false
         title   = "SOME OF OUR FEATURES WORKS"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 

@@ -4,13 +4,15 @@
 
 {{ if .Site.Data.contact.enable }}
 {{ "<!-- Contact Section Start -->" | safeHTML }}
+
 <section id="contact-section">
     <div class="container">
         <div class="row">
             <div class="col-md-6 mb-5 mb-md-0">
                 <div class="block">
-                    {{ with .Site.Data.contact.contactFormTitle }}<h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
-                    {{ with .Site.Data.contact.contactFormSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+                    {{ with .Site.Data.contact.contactFormTitle }}<h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . |safeHTML}}</h2>{{ end }}
+                    {{ with .Site.Data.contact.contactFormSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ .|safeHTML }}</p>{{ end }}
+<!--
                     <div class="contact-form">
                         <form id="contact-form" method="#" action="#" role="form">
 
@@ -42,8 +44,8 @@
                                 <button type="submit" id="contact-submit" class="btn btn-default btn-send hvr-bounce-to-right" value="Send Message">Send Message</button>
                             </div>
                         </form>
-                    </div>
-                </div>
+                    </div> -->
+                </div> 
             </div>
             <div class="col-md-6">
                 <div class="map-area">

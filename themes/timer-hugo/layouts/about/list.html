@@ -32,7 +32,7 @@
                 {{ $class := add $index 1 }}
                 <div class="block about-feature-{{ $class }} wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
                     {{ with .title }}<h2>{{ . }}</h2>{{ end }}
-                    {{ with .description }}<p>{{ . }}</p>{{ end }}
+                    {{ with .description }}{{ . |safeHTML }}{{ end }}
                 </div>
             </div>
             {{ end }}
@@ -41,10 +41,14 @@
 </section>
 {{ "<!--  Company Feature Section End -->" | safeHTML }}
 
+<!-- 
 {{ partial "team.html" . }}
 
 {{ partial "clients.html" . }}
 
 {{ partial "cta.html" . }}
 
+-->
+
 {{ partial "footer.html" . }}
+
