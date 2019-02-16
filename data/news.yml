@@ -6,3 +6,8 @@ serviceItem :
     title : GOSSIS at the Critical Care Congress, 2019
     description: >
       <a href="https://journals.lww.com/ccmjournal/Fulltext/2019/01001/33__THE_GLOBAL_OPEN_SOURCE_SEVERITY_OF_ILLNESS.36.aspx">Preliminary GOSSIS Results Presented</a> as Star Research Presentation at the <a href="https://sccm.org/Education-Center/Annual-Congress">48th Critical Care Congress</a> (San Diego, CA, Feb 17-20, 2019).
+
+  - icon  : ion-ios-paper-outline
+    title : International Comparison of Critically Ill Patients
+    description : >
+      A <a href="https://dspace.mit.edu/handle/1721.1/112844">thesis</a> on the GOSSIS project by Maria I Fabre and advisor Leo A. Celi.
