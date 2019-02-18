@@ -30,7 +30,7 @@ theme = "timer-hugo"
     description = "Airspace Hugo theme"
     author = "Themefisher"
     # Google Analitycs
-    googleAnalitycsID = "Your ID"
+    googleAnalitycsID = "UA-87592301-6"
 
     # Banner Section
     [params.banner]
